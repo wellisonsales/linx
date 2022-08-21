@@ -1,0 +1,27 @@
+.divInformation {
+    display: flex;
+    flex-direction: wrap;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.title {
+    text-align: left;
+    font-weight: normal;
+    font-size: 20px;
+    color: #888888;
+    opacity: 1;
+    margin-bottom: 30px;
+}
+
+.textDesc {
+    text-align: left;
+    font-size: 12px;
+    color: #888888;
+    opacity: 1;
+    line-height: 18px;
+    width: 520px;
+    height: 220px;
+}
