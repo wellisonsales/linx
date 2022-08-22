@@ -1,13 +1,13 @@
 import './App.css'
 import Header from './components/Header/Header'
-import Info from './components/Section/Info'
+import Section from './components/Section/Section'
 
 function App() {
 
   return (
     <div>
       <Header/>
-      <Info/>
+      <Section/>
     </div>
   )
 }
